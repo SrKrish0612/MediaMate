@@ -56,6 +56,9 @@
 		6C1449472A2F140F008844F1 /* MediaMate */ = {
 			isa = PBXGroup;
 			children = (
+				6C14495E2A2F2D7C008844F1 /* ViewModel */,
+				6C14495D2A2F2D6B008844F1 /* View */,
+				6C14495C2A2F2D5F008844F1 /* Model */,
 				6C1449482A2F140F008844F1 /* AppDelegate.swift */,
 				6C14494A2A2F140F008844F1 /* SceneDelegate.swift */,
 				6C14494C2A2F140F008844F1 /* ViewController.swift */,
@@ -65,6 +68,27 @@
 				6C1449562A2F1412008844F1 /* Info.plist */,
 			);
 			path = MediaMate;
+			sourceTree = "<group>";
+		};
+		6C14495C2A2F2D5F008844F1 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		6C14495D2A2F2D6B008844F1 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		6C14495E2A2F2D7C008844F1 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModel;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
